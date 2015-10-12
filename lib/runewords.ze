@@ -1,0 +1,860 @@
+Foundation	We Ar Cm	2	El-Jwl-Jwl-El	4
+Salute	Bt Sh Ch	4	Eld-El	2
+Salutations	Bt Sh	4	Eld-El-Gmj	3
+Booster	Be Bt Cm	6	Tir-Tir	2
+Crunch	Ha	6	Tir-Tir	2
+Glass	To Ct	6	Eld-Tir	2
+Glassy	To	6	Eld-Tir-Gmj	3
+Harvest	Be Bt Cm	6	Eld-Tir	2
+Jab	Po	6	Tir-Tir	2
+Marble	Cm	6	El-Tir-Eld	3
+Pallor	Wa	6	Tir-Tir	2
+Slash	Cw	6	Tir-Tir	2
+Smack	Sc	6	Tir-Tir	2
+Sparkles	Or	6	Tir-Tir	2
+Steel	Ax Ma Sw Cq	6	Tir-El	2
+Steely	Ax Ma Sw	6	Tir-El-Gm	3
+Testorossa	Gl He Ct	6	El-Eld-Tir	3
+Blase	Ar	8	Nef-Nef-Nef	3
+Harken	Be Bt Cm	8	Nef-Eld	2
+Malaise	We	8	Nef-Nef-Nef	3
+Nadir*	He Ct	8	Nef-Tir	2
+Nadirae	He	8	Nef-Tir-Gmj	3
+Patience	Mi Cq	8	Eld-Nef	2
+Patiently	Mi	8	Eld-Nef-Gmj	3
+Piety	Gl Cq	8	El-Nef	2
+Pious	Gl	8	El-Nef-Gmj	3
+Sidekick	Be Bt Cm	8	Tir-Nef	2
+Bauble	Cm	10	Eth-Eld-Tir	3
+Crackle Glass	Sh Ch	10	Eld-Eth	2
+Cracked Glass	Sh Ch	10	Eld-Eth-Gmj	3
+Dog Ate Dog	Pe	10	Tir-Eth-Gmj	3
+Dog Eat Dog	Pe Ct	10	Tir-Eth	2
+Doh	He Ct	10	Eth-Eld	2
+Doh-Nut	He	10	Eth-Eld-Gmj	3
+Praise	He Ct	10	Eth-Tir	2
+Praiseworthy	He	10	Eth-Tir-Gmj	3
+Brass	To Ct	15	Eld-Ith	2
+Brassy	To	15	Eld-Ith-Gmj	3
+Breeze	Mi Cq	15	Ith-Eth	2
+Breezy	Mi	15	Ith-Eth-Gmj	3
+Crystal	He Ct	15	Ith-Eld	2
+Crystallic	He	15	Ith-Eld-Gmj	3
+Dead Heat	Hd	15	Nef-Ith	2
+Departed	Wa	15	Nef-Ith	2
+Malice	Me Cq	15	Ith-El-Eth	3
+Malicious	Me	15	Ith-El-Eth-Gmj	4
+Mist	Gl Cq	15	Nef-Ith	2
+Misty	Gl	15	Nef-Ith-Gmj	3
+Poverty	As	15	Nef-Ith	2
+Reflex	Ph	15	Nef-Ith	2
+Seashell	He Ct	15	Eth-Ith	2
+Seashore	He	15	Eth-Ith-Gmj	3
+Shimmers	Ci	15	Ith-Ith	2
+Slither	Mi Cq	15	Nef-Ith-Tir	3
+Slithering	Mi	15	Nef-Ith-Tir-Gmj	4
+Thread	Mi Ct	15	Ith-Nef	2
+Threads	Mi	15	Ith-Nef-Gmj	3
+Trinket	Cm	15	Ith-Tir-Eld	3
+Vapor	Mi Cq	15	Ith-El	2
+Vaporous	Mi	15	Ith-El-Gmj	3
+Vision	Or Ro Cq	15	Ith-Nef	2
+Witch	Or	15	Nef-Ith	2
+Wolf Pup	Pe	15	Nef-Ith	2
+Blend	Ar	20	Tal-Tal-Tal	3
+Chump Change	Cm	20	Tir-Tal	2
+Huntress	Ab Aj As	20	Tal-Ith	2
+Lister*	Cm	20	Tir-Nef-Eth-Ith-Tal	5
+Meander	We	20	Tal-Tal-Tal	3
+Peasant	Xb	20	Ith-Tal	2
+Raven Klaw	Cw Cq	20	Tal-Eld	2
+Rimmer*	Cm	20	Tal-Ith-Eth-Nef-Tir	5
+Serf	Sc	20	Ith-Tal	2
+Short Stop	Cm	20	Tal-Tir	2
+Stealth	To Ct	20	Tal-Eth	2
+Stealthy	To	20	Tal-Eth-Gmj	3
+Touchstone	Cm	20	Eth-Tir-Tal	3
+Veil	Cw	20	Tal-Ith	2
+Checkov*	Cm	25	Tal-Ral-Eth-Ith	4
+Embrace	Be Bt Cm	25	Eth-Ral	2
+Horacer77	We Cq	25	Ith-Ral	2
+Horacer777	We	25	Ith-Ral-Gmj	3
+Leaf	St Cq	25	Tir-Ral	2
+Leaves	St	25	Tir-Ral-Gmj	3
+Mulder*	Cm	25	Nef-Ral-Tal-Eth-Eld	5
+Order	Sc Cq	25	Eth-Ral-Eld	3
+Orderly Conduct	Sc	25	Eth-Ral-Eld-Gmj	4
+Red	Or Cq	25	Ral-Eth	2
+Short Change	Cm	25	Nef-Ral	2
+Sulu*	Cm	25	Eth-Ith-Ral-Tal	4
+Ancient's Legacy	Sh	30	Ral-Ort-Tal-Gmj	4
+Ancient's Pledge	Sh Ch	30	Ral-Ort-Tal	3
+Catastrophe	Gl Me Cq	30	Ort-Nef	2
+Catastrophic	Gl Me	30	Ort-Nef-Gmj	3
+Checked Out	Wa	30	Tal-Ort	2
+Holy Strike	Sc	30	Eth-Ral-Ort-Tal-Gmj	5
+Holy Thunder*	Sc Cq	30	Eth-Ral-Ort-Tal	4
+Mighty Mite	Cm	30	Ort-Tir	2
+Moby Dick*	Cm	30	Ral-Eth-Tal-Ort-Nef-Tir	6
+Toy	Cm	30	Ort-Ral-Tal	3
+Trial By Fire	Bt He Ch Ct	30	Ort-Ral-Nef-Tir	4
+Uhura*	Cm	30	Nef-Ort-Ral-Ith	4
+Zephyr	Mi Cq	30	Ort-Eth	2
+Zephyros	Mi	30	Ort-Eth-Gmj	3
+Amity	Cb Ma Sc Cq	35	Thul-Tir-Eld	3
+Banal	Ar	35	Thul-Thul-Thul	3
+Bandit	Kn Xb Cq	35	Thul-Ith	2
+Banditry	Kn Xb	35	Thul-Ith-Gmj	3
+Bead	Cm	35	Thul-Nef-Tir	3
+Bone Chip*	He Sh To Ch Ct	35	Tir-Tal-Ith-Thul	4
+Creepy Vine*	Bt Gl Ch Cq	35	Nef-Thul-Tal	3
+Dead Giveaway	Hd	35	Tal-Thul	2
+Disguise	Cw	35	Thul-Ral	2
+Ernie	Wa Cq	35	Eld-Thul	2
+Familiar	Cm	35	Eld-Thul-Ral	3
+Gigantor*	Cm	35	Thul-Ort-Ral-Tal-Ith-Eth	6
+Kirk*	Cm	35	Tal-Ral-Ort-Thul	4
+Kryten*	Cm	35	Thul-Ort-Ral-Tal-Ith	5
+Lamia	Or	35	Tal-Thul	2
+Lioness	Ab Aj As	35	Thul-Ral	2
+Love Everlasting	To	35	Amn-Thul-Ort-Ral-Tal-Gmj	6
+Meagre	As	35	Tal-Thul	2
+Morose	We	35	Thul-Thul-Thul	3
+Pee Wee	Cm	35	Ral-Thul	2
+Penitence	Be Ct	35	Thul-Tal	2
+Pointer	Xb	35	Ral-Thul	2
+Quey Quig*	Cm	35	Eth-Tal-Ort-Thul-El-Eld	6
+Rhythm	We Ar Cm	35	Thul-Ort-Thul	3
+Savage	Ph	35	Tal-Thul	2
+Scully*	Cm	35	Thul-Eth-Ort-Ith-Tal	5
+Spock*	Cm	35	Thul-Ort-Ral-Tal	4
+Squire	Sc	35	Ral-Thul	2
+Starbuck*	Cm	35	Ith-Eth-Nef-Ral-Thul-Tir	6
+Warden	He To Ct	35	Thul-Ral-Nef-El	4
+Warden of the Marches	He To	35	Thul-Ral-Nef-El-Gmj	5
+Wolfling	Pe	35	Tal-Thul	2
+Band of Brothers	Be Ct	40	Eld-Amn	2
+Bert	Hd Ch	40	Eld-Amn	2
+Bertrum	Hd	40	Eld-Amn-Gmj	3
+Doom Spiral	He	40	Amn-Eth-Gmj	3
+Doom Spire	He Ct	40	Amn-Eth	2
+Eagle Eye	Mi	40	Nef-Thul-Amn-Tal-Gmj	5
+Gryphon	Cw Cq	40	Amn-Ral-Tal 	3
+Gryphon Klaw	Cw	40	Amn-Ral-Tal-Gmj	4
+Hawkeye	Mi Cq	40	Nef-Thul-Amn-Tal	4
+King's Grace	Sc Sw Cq	40	Amn-Ral-Thul	3
+King's Ransom	Sc Sw	40	Amn-Ral-Thul-Gmj	4
+MBWorshipper	As Sc	40	Ith-Amn-Ral	3
+Pattern	Bt Ch	40	Amn-Nef	2
+Patterns	Bt	40	Amn-Nef-Gmj	3
+Persuis	We	40	Amn-Tal-Amn-Tal	4
+Phoenix	Me Ch	40	Thul-Ort-Ral-Amn-Tal	5
+Phoenix Resurrection	Me	40	Thul-Ort-Ral-Amn-Tal-Gmj	6
+Pride	To	40	Amn-Nef-Eth	3
+Pride's Fall	To	40	Amn-Nef-Eth-Gmj	4
+Quandry	Cw Cq	40	Eth-Amn	2
+Strength	Me Cq	40	Amn-Tir	2
+Strengthen	Me	40	Amn-Tir-Gmj	3
+The Lovers	To Ch	40	Amn-Thul-Ort-Ral-Tal	5
+Camouflage	Cw	45	Sol-Ral	2
+Dead Ringer	Hd	45	Ral-Sol	2
+Defunct	Wa	45	Ral-Sol	2
+Folklore	He	45	Ort-Sol-Gmj	3
+Footman	Sc	45	Ral-Sol	2
+Geomancer	Or	45	Ral-Sol	2
+Honor	Me	45	Amn-El-Ith-Tir-Sol	5
+Honor Guard	Me	45	Amn-El-Ith-Tir-Sol-Gmj	6
+Instinct	Ph	45	Ral-Sol	2
+Lore	He Ct	45	Ort-Sol	2
+Priestess	Ab Aj As	45	Sol-Ral	2
+Radiance	He Ct	45	Nef-Sol-Ith	3
+Radiant Glory	He	45	Nef-Sol-Ith-Gmj	4
+Scrape	As	45	Ral-Sol	2
+Shadow of Deception	He	45	Sol-El-Gmj	3
+Shadow of Doubt	He Ct	45	Sol-El	2
+Targeteer	Xb	45	Ral-Sol	2
+The Brute	Bl Cq	45	Sol-Ith	2
+The Brutish	Bl	45	Sol-Ith-Gmj	3
+Wolfen	Pe	45	Ral-Sol	2
+Afterthought	Ci	50	Eth-Shael-Ith-Gmj	4
+Bishop	We Cq	50	Shael-Thul-Eld-Ort	4
+Bone Crack*	He Sh To Ch Ct	50	Ith-Thul-Ort-Shael	4
+Bramble	Gl Cq	50	Sol-Shael	2
+Brambles	Gl	50	Sol-Shael-Gmj	3
+Cardinal	We	50	Shael-Thul-Eld-Ort-Gmj	5
+Desire	Ph Ct	50	Amn-Shael	2
+Desires	Ph	50	Amn-Shael-Gmj	3
+Falcon Claw	Cw Cq	50	Ith-Shael	2
+Lightning	St Gq	50	Shael-Sol-Nef-Ort	4
+Oblivion	Me Cq	50	Nef-Eld-Shael	3
+Oblivion's Threshold	Me	50	Nef-Eld-Shael-Gmj	4
+Panic	Gl Cq	50	Eth-Shael	2
+Panicstruck	Gl	50	Eth-Shael-Gmj	3
+Reason	He Ct	50	Tir-Shael	2
+Reasonable	He	50	Tir-Shael-Gmj	3
+Retribution	Sc	50	Thul-Ort-Ral-Shael-Gmj	5
+Rhyme	Sh Ch	50	Shael-Eth	2
+Rhymery	Sh	50	Shael-Eth-Gmj	3
+Rift	Wa Cq	50	Tal-Shael	2
+Shadow	Bt Ch	50	Shael-Nef	2
+Shadows	Bt	50	Shael-Nef-Gmj	3
+Thought	Ci Ct	50	Eth-Shael-Ith	3
+Vengeance	Sc Cq	50	Thul-Ort-Ral-Shael	4
+Basic	Ph	60	Ral-Amn-Dol	3
+Big Brother	Me Cq	60	Ith-Ort-Dol-Amn	4
+Big Sister	Mi Cq	60	Ort-Ith-Dol-Amn	4
+Bigger Brother	Me	60	Ith-Ort-Dol-Amn-Gmj	5
+Bigger Sister	Mi	60	Ort-Ith-Dol-Amn-Gmj	5
+Booga	Be Ct	60	Dol-Eth	2
+Cherish	Be Ct	60	Dol-Tir	2
+Dead On	Hd	60	Ral-Amn-Dol	3
+Eagle Eye	Cw	60	Dol-Thul-Tal-Gmj	4
+Eagle Klaw	Cw	60	Dol-Thul-Tal 	3
+Eke	As	60	Ral-Amn-Dol	3
+Famine	Bl Cq	60	Nef-Dol-Tal	3
+Famished	Bl	60	Nef-Dol-Tal-Gmj	4
+Harmony	Be Ct	60	Eth-Dol	2
+Man at Arms	Sc	60	Ral-Thul-Dol	3
+Mask	Cw	60	Dol-Thul-Ral	3
+Matron	Ab Aj As	60	Dol-Thul-Ral	3
+Minya	Ci Cq	60	Eth-Dol	2
+Minyanna	Ci	60	Eth-Dol-Gmj	3
+Mustang	Bt Ch	60	Eld-Dol-El	3
+Mustang Cobra	Bt	60	Eld-Dol-El-Gmj	4
+Peace	He Ct	60	Shael-Dol-Eth	3
+Peace Eternal	He	60	Shael-Dol-Eth-Gmj	4
+Pointer	Xb	60	Ral-Thul-Dol	3
+Principle	Be Ct	60	Tir-Dol	2
+Serendipity	Mi Cq	60	Dol-Ral-Eth	3
+Serendipity's Sake	Mi	60	Dol-Ral-Eth-Gmj	4
+Sorrow	Hd Ch	60	Eth-Dol-Nef	3
+Sorrow's Tears	Hd	60	Eth-Dol-Nef-Gmj	4
+Targeteer	Xb	60	Ral-Thul-Dol	3
+Terror	Wa Cq	60	Dol-Tal	2
+Thirst	Ro Cq	60	Amn-Dol	2
+Thirsty	Ro	60	Amn-Dol	2
+Vermilion	Mi Cq	60	Nef-Thul-Dol	3
+Vermilious Tempest	Mi	60	Nef-Thul-Dol-Gmj	4
+Vermin	Pe Ct	60	Dol-Tir-Ith	3
+Vermin Horde	Pe	60	Dol-Tir-Ith-Gmj	4
+Virginity	Or Cq	60	El-Dol	2
+Wolfhound	Pe	60	Ral-Amn-Dol	3
+Youth	To Ct	60	Dol-Amn	2
+Youthful	To	60	Dol-Amn-Gmj	3
+Broken Promise	Be Ct	70	Hel-Nef	2
+Dabbler*	He Sh To Ch Ct	70	Hel-Eth-Sol-Ort	4
+Dabblings	He Sh To	70	Hel-Eth-Sol-Ort-Gmj	5
+Deceased	Wa	70	Thul-Hel	2
+Dread	To Ct	70	Ith-Amn-Eld-Hel	4
+Dreaded	To	70	Ith-Amn-Eld-Hel-Gmj	5
+Exile's Path	Bt Ch	70	Hel-Eld	2
+Exile's Road	Bt	70	Hel-Eld-Gmj	3
+Haruspex	Or	70	Thul-Hel	2
+Hermit	To Ct	70	Hel-Amn-Dol	3
+Hermit's Hovel	To	70	Hel-Amn-Dol-Gmj	4
+Yellow Thom*	Bt Gl Ch Cq	70	Amn-Hel-Tal	3
+Yellow Vane	Bt Gl	70	Amn-Hel-Tal-Gmj	4
+Black*	Cb Ha Ma Cq	80	Thul-Io-Nef	3
+Blackout	Cb Ha Ma	80	Thul-Io-Nef-Gmj	4
+Bone Knob*	Sh To Ch	80	Ort-Shael-Sol-Io-Dal	5
+Bulldog	Bt He To Ct Ch	80	Io-Dol-Nef	3
+Bullhog	Bt He To	80	Io-Dol-Nef-Gmj	4
+Cake Monster	To	80	Sol-Io-Nef-Amn-Gmj	5
+Cookie Monster	To Ct	80	Sol-Io-Nef-Amn	4
+Facade	Cw	80	Io-Sol-Thul	3
+Humbled	To	80	Sol-Nef-Eld-Io-Gmj	5
+Humility	To Ct	80	Sol-Nef-Eld-Io	4
+Maddening	He	80	Io-Dol-Gmj	3
+Madness	He	80	Io-Dol	2
+Mistress	Ab Aj As	80	Io-Sol-Thul	3
+Pumus*	He Sh To Ch Ct	80	Thul-Ith-Ort-Io	4
+Pumus Stone	He Sh To	80	Thul-Ith-Ort-Io-Gmj	5
+Rook	Sh To Ch Ct	80	Io-Sol-Amn-Eth	4
+Rook's Vigil	Sh To	80	Io-Sol-Amn-Eth-Gmj	5
+Turbo*	Bt Ch	80	Io-Eld	2
+Turboron	Bt	80	Io-Eld-Gmj	3
+White	Wa Cq	80	Dol-Io	2
+White Thom	Bt Gl Ch Cq	80	Io-Tal-Amn	3
+White Vane	Bt Gl	80	Io-Tal-Amn-Gmj	4
+Wind*	Bt Ch	80	Nef-Io	2
+Windy	Bt	80	Nef-Io-Gmj	3
+Bone*	Ph Ct	90	Dol-Nef-Lum	3
+Boneblade	Ph	90	Dol-Nef-Lum-Gmj	4
+Corsair	Sw Cq	90	Lum-Shael-Eth-Amn	4
+Faerie	Ro Or Cq	90	Eth-Lum	2
+Insight	He Ct	90	Lum-Ith	2
+Insightful	He	90	Lum-Ith-Gmj	3
+Law	He Ct	90	Nef-Lum-Shael	3
+Lawmaker	He	90	Nef-Lum-Shael-Gmj	4
+Marauder	Sw	90	Lum-Shael-Eth-Amn-Gmj	5
+Memory	St Cq	90	Lum-Io-Sol-Eth	4
+Red Thorn*	Bt Gl Ch Cq	90	Tal-Amn-Lum	3
+Red Vane	Bt Gl	90	Tal-Amn-Lum-Gmj	4
+Smoke*	To Ct	90	Nef-Lum	2
+Smokescreen	To	90	Nef-Lum-Gmj	3
+Vanquish	Sc Cq	90	Lum-Tal-Amn	3
+Vanquished	Sc	90	Lum-Tal-Amn-Gmj	4
+Wisdom	Ci Ct	90	Lum-Nef	2
+Wisecrack	Ci	90	Lum-Nef-Gmj	3
+Bad Bird	Hd	100	Ko-Dol-Tal-Gmj	4
+Big Bird	Hd Ch	100	Ko-Dol-Tal	3
+Dead Horse	Hd	100	Sol-Hel-Ko	3
+Duchess	Ab Aj As	100	Ko-Dol-Sol	3
+Fasting	As	100	Sol-Hel-Ko	3
+Growlies	Bt Gl	100	Tal-Io-Ko-Gmj	4
+Grrrowl*	Bt Gl Ch Cq	100	Tal-Io-Ko	3
+Krinkle	Bl	100	Ko-Tal-Ko-Tal-Shael	5
+Krinkled	Bl	100	Ko-Tal-Ko-Tal-Shael-Gmj	6
+Melodic Windsong	Mi	100	Shael-Ko-Nef-Gmj	4
+Melody	Mi Cq	100	Shael-Ko-Nef	3
+Mirage	Cw	100	Ko-Dol-Sol	3
+Poison Ivy*	Bt Gl Ch Cq	100	Thul-Dol-Amn-Ko	4
+Primal	Ph	100	Sol-Hel-Ko	3
+Shout*	He Ct	100	Ith-Sol-Ko	3
+Shout It Out	He	100	Ith-Sol-Ko-Gmj	4
+Sparkly Thorn*	Bt Gl Ch Cq	100	Tal-Amn-Ko	3
+Sparkly Vane	Bt Gl	100	Tal-Amn-Ko-Gmj	4
+Sparks*	He Sh To Ch Ct	100	Ral-Amn-Nef-Ko	4
+Sparks Flying	He Sh To	100	Ral-Amn-Nef-Ko-Gmj	5
+SteppenWolf	Pe	100	Ko-Hel-Sol	3
+Treacherous Deceit	Gl	100	Tal-Dol-Ko-Gmj	4
+Treachery	Gl Cq	100	Tal-Dol-Ko	3
+Wings of Glory	Bt	100	Hel-Eld-Ko-Gmj	4
+Wings of Hope	Bt Ch	100	Hel-Eld-Ko	3
+Wolfenstein	Bt Gl	100	Io-Tal-Ko-Gmj	4
+Woof Woof*	Bt Gl Ch Cq	100	Io-Tal-Ko	3
+Apprentice	He Sh To	110	Fal-Ort-Io-Shael	4
+Apprenticeship	He Sh To	110	Fal-Ort-Io-Shael-Gmj	5
+Bone Bracer	Sh To	110	Sol-Io-Hel-Fal-Lum-Gmj	6
+Bone Weave*	Sh To Ch	110	Sol-Io-Hel-Fal-Lum	5
+Bound by Duty*	Sh To Ct	110	Fal-Ko-Hel-Dol	4
+Bound by Honor	Sh To	110	Fal-Ko-Hel-Dol-Gmj	5
+Cyclops	He Ct	110	Fal-Io-Ith	3
+Cyclops' Eye	He	110	Fal-Io-Ith-Gmj	4
+Ebony	Sw Cq	110	Tal-Fal-Dol-Shael	4
+Ebony Black	Sw	110	Tal-Fal-Dol-Shael-Gmj	5
+Flagbearer	Sc	110	Ral-Thul-Dol-Fal	4
+Ivory	Sw Cq	110	Ort-Fal-Dol-Shael	4
+Ivory White	Sw	110	Ort-Fal-Dol-Shael-Gmj	5
+Lionheart	To Ct	110	Hel-Lum-Fal	3
+Lionheart's Regent	To	110	Hel-Lum-Fal-Gmj	4
+Marksman	Xb	110	Ral-Thul-Dol-Fal	4
+Ox	Be Ct	110	Fal-Io	2
+Passion	To, Ct	110	Ko-Fal-Dol-Eth	4
+Passion Enflamed	To	110	Ko-Fal-Dol-Eth-Gmj	5
+Prudence	Gl Cq	110	Fal-Ko	2
+Prudent	Gl	110	Fal-Ko-Gmj	3
+Aardvark	Pe Ct	120	Shael-Lem	2
+Awaken*	Bt Sh To Ch Ct	120	Io-Sol-Lem-Ral	4
+Awakening	Bt Sh To	120	Io-Sol-Lem-Ral-Gmj	5
+Bow Wow*	Bt Sh To Ch Ct	120	Hel-Thul-Eth-Lem	4
+Bow Wow Blues	Bt Sh To	120	Hel-Thul-Eth-Lem-Gmj	5
+Crouching Tiger	Cw	120	Lem-Io-Amn	3
+Envious	Gl	120	Lem-Shael-Gmj	3
+Envy	Gl Cq	120	Lem-Shael	2
+Extinct	Wa	120	Sol-Lem	2
+Fast Strike	Me	120	Lem-El-Lem-El-Shael	5
+Fortitude	He Ct	120	Shael-Lem-El	3
+Fortitude Infinitesimal	He	120	Shael-Lem-El-Gmj	4
+Fortune Cookie	Bt	120	Shael-Lem-Gmj	3
+Fortune's Favor	Bt Ch	120	Shael-Lem	2
+Hidden Dragon	Cw	120	Io-Lem-Amn	3
+Illusion	Cw	120	Lem-Ko-Dol-Sol	4
+Krash	Bl	120	Lem-Ral-Lem-Ral-Shael	5
+Maiden*	He Sh To Ch Ct	120	Lem-Sol-Hel-Ko	4
+Maiden's Blessing	He Sh To	120	Lem-Sol-Hel-Ko-Gmj	5
+Majesty	Ab Aj As	120	Lem-Ko-Dol-Sol	4
+Quick to Kill	Me	120	Lem-El-Lem-El-Shael-Gmj	6
+Scarecrow	He Sh To	120	Eld-Shael-Ort-Lem-Gmj	5
+Shale*	He Sh To Ch Ct	120	Dol-Thul-Shael-Lem	4
+Shalestone	He Sh To	120	Dol-Thul-Shael-Lem-Gmj	5
+Spellbinder	Or	120	Sol-Lem	2
+Tin Man*	He Sh To Ch Ct	120	Eld-Shael-Ort-Lem	4
+Wealth	To Ct	120	Lem-Ko-Tir	3
+Wealth of Knowledge	To	120	Lem-Ko-Tir-Gmj	4
+Yellow Flutterbye*	Bt Gl Ch Cq	120	Hel-Fal-Amn-Lem	4
+Authority	St	130	Pul-Tir-Sol	3
+Authorize	St	130	Pul-Tir-Sol-Gmj	4
+Brand	Ja Mi	130	Pul-Nef-Ral	3
+Conundrum	Au	130	Fal-Pul-Shael	3
+Dilemma	Au	130	Pul-Shael	2
+Dilemmas	Au	130	Pul-Shael-Gmj	3
+Fozzy	He	130	Dol-Pul-Nef	3
+Fozzy Bear	He	130	Dol-Pul-Nef-Gmj	4
+Knight's Vigil	Sh	130	Pul-Nef-Eld-Hel-Ith	5
+Knight's Quest	Sh	130	Pul-Nef-Eld-Hel-Ith-Gmj	6
+Maverick	Bt	130	Pul-Eth	2
+Oxymoron	Au	130	Pul-Fal-Shael-Nef	4
+Oxymoronic	Au	130	Pul-Fal-Shael-Nef-Gmj	5
+Phantom	To	130	Pul-Ort-Tir-Dol	4
+Phantom Pain	To	130	Pul-Ort-Tir-Dol-Gmj	5
+Quick Kill	Me	130	Pul-Eld-Pul-Eld-Shael	5
+Quickening	Me	130	Pul-Eld-Pul-Eld-Shael-Gmj	6
+Trust	Au	130	Pul-Fal-Shael-Amn	4
+Trustworthy	Au	130	Pul-Fal-Shael-Amn-Gmj	5
+Xcolibri	Mi Th	130	Lum-Hel-Pul-Thul-Lum	5
+Accord	Sh To	140	Um-Pul-Ort	3
+Accordance	Sh To	140	Um-Pul-Ort-Gmj	4
+Arnold	He	140	Fal-Io-Um	3
+Ah-nold	He	140	Fal-Io-Um-Gmj	4
+Alkalund	Sh	140	Um-Pul-Shael-Nef-El	5
+Alkalund's Judgement	Sh	140	Um-Pul-Shael-Nef-El-Gmj	6
+Coup de Grace	Me	140	Um-Tir-Um-Tir-Shael	5
+Crescent Moon	Po Sp	140	Um-Tir-Shael-Amn-Eth	5
+Crescent Star	Po Sp	140	Um-Tir-Shael-Amn-Eth-Gmj	6
+Crusade	Sh To	140	Um-Pul-Ith-Eth-Gmj	5
+Crusader	Sh To	140	Um-Pul-Ith-Eth	4
+Darkness	We	140	Dol-Eld-Thul-Um	4
+Darkness Woven	We	140	Dol-Eld-Thul-Um-Gmj	5
+Daylight	Po Sp	140	Dol-Um-El	3
+Daylight Savings	Po Sp	140	Dol-Um-El-Gmj	4
+Den of Vipers	Cw	140	Tal-Amn-Um-Gmj	4
+Dweomement	Pe	140	Um-Amn-Ith-Gmj	4
+Dweomer	Pe	140	Um-Amn-Ith	3
+Edge	Sw	140	Sol-Eth-Um-Nef	4
+Edge of the Abyss	Sw	140	Sol-Eth-Um-Nef-Gmj	5
+Embers	He Sh To	140	Sol-Hel-Ral-Um	4
+Embers of Rage	He Sh To	140	Sol-Hel-Ral-Um-Gmj	5
+Faith	Sc	140	Amn-Pul-Um	3
+Faithful	Sc	140	Amn-Pul-Um-Gmj	4
+Gekko	Pe	140	Dol-Nef-Um-Gmj	4
+Gloom	He	140	Io-Ko-Um	3
+Gloomy	He	140	Io-Ko-Um-Gmj	4
+Krackle	Bl	140	Um-Ort-Um-Ort-Shael	5
+Krackled	Bl	140	Um-Ort-Um-Ort-Shael-Gmj	6
+Mercy Kill	Me	140	Um-Tir-Um-Tir-Shael-Gmj	6
+Oath	Sh	140	Pul-Ith-Eld-Um	4
+Oath Sworn	Sh	140	Pul-Ith-Eld-Um-Gmj	5
+Salamander	Pe	140	Dol-Nef-Um	3
+Stallion	Bt	140	Shael-Um-Dol	3
+Stallion's Fury	Bt	140	Shael-Um-Dol-Gmj	4
+Sting	Sw	140	Pul-Um-Dol	3
+Stinger	Sw	140	Pul-Um-Dol-Gmj	4
+The Beauty	Pe	140	Dol-Um-Nef-Gmj	4
+The Beast	Pe	140	Dol-Um-Nef	3
+Viper	Cw	140	Tal-Amn-Um	3
+Vitesse	Bt Be	140	Um-Shael	2
+Vitesse Mondo	Bt Be	140	Um-Shael-Gmj	3
+Apostle	Au	150	Mal-Pul-Um	3
+Apostles	Au	150	Mal-Pul-Um-Gmj	4
+Bone Spell	Sh To	150	Mal-Io-Ral-Dol	4
+Bone Spell	Sh To	150	Mal-Io-Ral-Dol-Gmj	5
+Cold Mastery	Sh To	150	Io-Ral-Dol-Mal-Gmj	5
+Cold Spell	Sh To	150	Io-Ral-Dol-Mal	4
+Collusion	Me	150	Amn-Mal-Eld-Um-Gmj	5
+Corruption	Me	150	Amn-Mal-Eld-Um	4
+Disease	Po	150	Tal-Shael-Dol-Um-Mal-Gmj	6
+Dream	Ci	150	Nef-Mal-Dol	3
+Dreamer	Ci	150	Nef-Mal-Dol-Gmj	4
+Epoch	We	150	Pul-Mal-Eld-Ith	4
+Epoch's End	We	150	Pul-Mal-Eld-Ith-Gmj	5
+Fang	Cw	150	Ort-Mal-Dol	3
+Fangtooth	Cw	150	Ort-Mal-Dol-Gmj	4
+Godslayer	Mi	150	Tal-Dol-Um-Mal-Gmj	5
+Grover	Bt	150	Mal-Dol-Eth	3
+Grover's Cloves	Bt	150	Mal-Dol-Eth-Gmj	4
+Heat Spell	Sh To	150	Ral-Dol-Mal-Io	4
+Heatwave	Sh To	150	Ral-Dol-Mal-Io-Gmj	5
+Hidden	To	150	Ko-Mal-Dol	3
+Hidden Agenda	To	150	Ko-Mal-Dol-Gmj	4
+Hunger	Sw	150	Um-Mal-Amn-Tal	4
+Hungering	Sw	150	Um-Mal-Amn-Tal-Gmj	5
+Jealous Rage	He	150	Amn-Tir-Mal-Gmj	4
+Jealousy	He	150	Amn-Tir-Mal	3
+Kingslayer	Mi	150	Tal-Dol-Um-Mal	4
+Light Spell	Sh To	150	Dol-Mal-Io-Ral	4
+Lightning Spell	Sh To	150	Dol-Mal-Io-Ral-Gmj	5
+Magic User	Sh To	150	Mal-Dol-Lem-Lum-Ko-Gmj	6
+Magician	Sh To	150	Mal-Dol-Lem-Lum-Ko	5
+Myth	Sh	150	Amn-Mal-Eld-Nef	4
+Myth-Nomers	Sh	150	Amn-Mal-Eld-Nef-Gmj	5
+Question	Mi	150	Dol-Mal-Hel-Um	4
+Paradigm	Sh	150	Mal-Sol-Dol-Eld	4
+Paradigm Principle	Sh	150	Mal-Sol-Dol-Eld-Gmj	5
+Pestilence	Po	150	Tal-Shael-Dol-Um-Mal	5
+Pillar of Faith	To	150	Pul-Um-Mal-Dol	4
+Questionable	Mi	150	Dol-Mal-Hel-Um-Gmj	5
+Sanctuary	Sh	150	Sol-Mal-Dol	3
+Sanctuary's Portal	Sh	150	Sol-Mal-Dol-Gmj	4
+Smart Guy	Me	150	Fal-Ko-Mal-Amn	4
+Touchstone of Faith	To	150	Pum-Um-Mal-Dol-Gmj	5
+Venom	We	150	Tal-Dol-Mal	3
+Venomous	We	150	Tal-Dol-Mal-Gmj	4
+Voice	Pe	150	Mal-Tal-Eld	3
+Voice of Deceit	Pe	150	Mal-Tal-Eld-Gmj	4
+War	We	150	Um-Mal-Tir-Amn	4
+Warrior	We	150	Um-Mal-Tir-Amn-Gmj	5
+Wiseguy	Me	150	Fal-Ko-Mal-Amn-Gmj	5
+Aquarius	Bt He Sh To	160	Ist-Ko-Ort	3
+Aries	Bt He Sh To	160	Ist-Lum-Ral	3
+Bear Claw	Sh To	160	Fal-Mal-Dol-Shael-Ist	5
+Bearskin	Sh To	160	Fal-Mal-Dol-Shael-Ist-Gmj	6
+Cancer	Bt He Sh To	160	Ist-Fal-Ral	3
+Capricorn	Bt He Sh To	160	Ist-Lum-Tal	3
+Cunning	Ph	160	Hel-Ko-Pul-Ist	4
+Dead Time	Hd	160	Hel-Ko-Pul-Ist	4
+Dogs and Claws	Sh To	160	Mal-Dol-Shael-Ist-Fal	5
+Dog Claws	Sh To	160	Mal-Dol-Shael-Ist-Fal-Gmj	6
+Gemini	Bt He Sh To	160	Ist-Ko-Thul	3
+Granite	Sh To	160 	Ko-Dol-Lum-Ist-Ko	5
+Granite Guard	Sh To	160	Ko-Dol-Lum-Ist-Ko-Gmj	6
+Groundhog	Sh To	160	Dol-Shael-Ist-Fal-Mal-Gmj	6
+Hound Dogs	Sh To	160	Dol-Shael-Ist-Fal-Mal	5
+Iron Man	He Sh To	160	Ith-Lum-Shael-Ist	4
+Jinx	He	160	Lem-Ist-Tir	3
+Jinxed	He	160	Lem-Ist-Tir-Gmj	4
+Krumble	Bl	160	Ist-Thul-Ist-Thul-Shael	5
+Leo	Bt He Sh To	160	Ist-Fal-Thul	3
+Libra	Bt He Sh To	160	Ist-Fal-Ort	3
+Lone Wolf	Pe	160	Hel-Ko-Pul-Ist	4
+Lust	To	160	Hel-Io-Um-Nef-Ist	5
+Lust for Life	To	160	Hel-Io-Um-Nef-Ist-Gmj	6
+Man of Steel	He Sh To	160	Ith-Lum-Shael-Ist-Gmj	5
+Pisces	Bt He Sh To	160	Ist-Lum-Ort	3
+Princess	He Sh To	160	Ist-Io-Fal-Um	4
+Princess Warrior	He Sh To	160	Ist-Io-Fal-Um-Gmj	5
+Rise Up	Sh To	160	Lem-Io-Ist-Sol-Lum	5
+Rise Up and Cheer	Sh To	160	Lem-Io-Ist-Sol-Lum-Gmj	6
+Sackcloth	As	160	Hel-Ko-Pul-Ist	4
+Sagittarius	Bt He Sh To	160	Ist-Io-Thul	3
+Scorpio	Bt He Sh To	160	Ist-Io-Thul	3
+Sisterhood of Steel	Sh To	160	Shael-Ist-Fal-Mal-Dol	5
+Snuff	Gl	160	Ist-Amn	2
+Snuffed	Gl	160	Ist-Amn-Gmj	3
+Steel Soroarity	Sh To	160	Shael-Ist-Fal-Mal-Dol-Gmj	6
+Sweet	Mi	160	Ist-Io-Fal-Ko-Lum-Lem	6
+Tarus	Bt He Sh To	160	Ist-Io-Ral	3
+Virgo	Bt He Sh To	160	Ist-Io-Ral	3
+White Flutterbye	Bt Gl	160	Lem-Amn-Hel-Ist	4
+Zodiac	Bt He Sh To	160	Ist-Lem-Um	3
+Zodiac Sign	Bt He Sh To	160	Ist-Lem-Um-Gmj	4
+Arrogance	Me	170	Gul-Amn	2
+Arrogant	Me	170	Gul-Amn-Gmj	3
+Blood Magic	Bt Sh To	170	Thul-Shael-Gul-Ko-Gmj	5
+Blood Mana	Bt Sh To	170	Thul-Shael-Gul-Ko	4
+Chow Chow	Bt Sh To	170	Lem-Hel-Thul-Gul	4
+Chow Chow Chow	Bt Sh To	170	Lem-Hel-Thul-Gul-Gmj	5
+Conjecture	Bt We	170	Hel-Shael-Gul-Gmj	4
+Conjunction	Bt We	170	Hel-Shael-Gul 	3
+Equinox	Me	170	Tal-Thul-Gul	3
+Equinox Divide	Me	170	Tal-Thul-Gul-Gmj	4
+Goddess	Ab Aj As	170	Gul-Mal-Pul-Lum	4
+Grizzly	Bt Gl	170	Amn-Mal-Gul	3
+Grizzly Bear	Bt Gl	170	Amn-Mal-Gul-Gmj	4
+Hologram	Cw	170	Gul-Mal-Pul-Lum	4
+Ice Age	Mi Sw	170	Thul-Gul-Shael-Nef-Eth	5
+Jedi	Sw	170	Ort-El-Gul-Mal	4
+Jedi Knight	Sw	170	Ort-El-Gul-Mal-Gmj	5
+Mortified	Wa	170	Dol-Gul	2
+Outcast	Bl Sw	170	Gul-Shael-Sol-Ith	4
+Rain	Mi	170	Gul-Um-Shael	3
+Rainstorm	Mi	170	Gul-Um-Shael-Gmj	4
+Sibyl	Or	170	Amn-Gul	2
+Solstice	Me	170	Tal-Ort-Gul	3
+Solstice Waning	Me	170	Tal-Ort-Gul-Gmj	4
+Spirit	Ph	170	Nef-Shael-Gul	3
+Spirits Within	Ph	170	Nef-Shael-Gul-Gmj	4
+The Outcast	Bl Sw	170	Gul-Shael-Sol-Ith-Gmj	5
+Tradition	Me	170	Gul-Sol-Ith-Mal	4
+Traditional Values	Me	170	Gul-Sol-Ith-Mal-Gmj	5
+Wolfman	Bt Gl	170	Mal-Amn-Gul	3
+Wolfpack	Bt Gl	170	Mal-Amn-Gul-Gmj	4
+Zac503	We	170	Hel-Um-Thul-Ral-Gul	5
+Zac503	We	170	Hel-Um-Thul-Ral-Gul-Gmj	6
+Deception	Cw	180	Dol-Vex-Amn	3
+Deceptions	Cw	180	Dol-Vex-Amn-Gmj	4
+Eyore	Or	180	Ort-Dol-Vex	3
+Flames	Sh To	180	Io-Fal-Sol-Vex-Lem	5
+Flamestrike	Sh To	180	Io-Fal-Sol-Vex-Lem-Gmj	6
+Ghost	St	180	Vex-Amn-Ort-Mal	4
+Hatred	Ph	180	Vex-Tir-Amn 	3
+Hatred's Face	Ph	180	Vex-Tir-Amn-Gmj	4
+Holy Lamentations	Xb	180	Vex-Amn-Eld-Gmj	4
+Holy Tears	Xb	180	Vex-Amn-Eld	3
+Kanga	Or	180	Thul-Dol-Vex	3
+Krush	Bl	180	Vex-Amn-Vex-Amn-Shael	5
+Krushed	Bl	180	Vex-Amn-Vex-Amn-Shael-Gmj	6
+Piglet	Or	180	Tal-Dol-Vex	3
+Pooh	Or	180	Amn-Dol-Vex	3
+Quest for Knowledge	St	180	Vex-Tir-Ist-Gmj	4
+Rapture	Be Ci	180	Vex-Ral	2
+Silence	We	180	Dol-Eld-Hel-Ist-Tir-Vex	6
+Starbrite	Ci	180	Eld-Vex-Lem-Gmj	4
+Starlight	Ci	180	Eld-Vex-Lem	3
+Thirst for Knowledge	St	180	Vex-Tir-Ist	3
+Tigger	Or	180	Ral-Dol-Vex	3
+Victory	We	180	Vex-Amn-Tir-El	4
+Victory Dance	We	180	Vex-Amn-Tir-El-Gmj	5
+Coincidence	Me Sh	190	Ohm-Dol-Nef	3
+Coincidences	Me Sh	190	Ohm-Dol-Nef-Gmj	4
+Disconcerted	He	190	Shael-Ohm-Fal-Gmj	4
+Discontent	He	190	Shael-Ohm-Fal	3
+Maelstrom	Mi	190	Ith-Gul-Ohm-Amn	4
+Maelstrom's Maw	Mi	190	Ith-Gul-Ohm-Amn-Gmj	5
+Mage King	Sh To	190	Ohm-Ko-Ist-Pul-Um	5
+Mage Kingdom	Sh To	190	Ohm-Ko-Ist-Pul-Um-Gmj	6
+Morning Dew	Gl Ma	190	Mal-Ohm-Gul	3
+Morning Mist	Gl Ma	190	Mal-Ohm-Gul-Gmj	4
+Nightmare	We	190	Eth-Ohm-Mal-Amn	4
+Nightmare's Memory	We	190	Eth-Ohm-Mal-Amn-Gmj	5
+Prowess in Battle	Gl	190	Gul-Shael-Ohm	3
+Prowess in War	Gl	190	Gul-Shael-Ohm-Gmj	4
+Rhaevyn	Ax Po Sp	190	Dol-Ral-Nef-Shael-Ohm	5
+Rhaevyn's Victory	Ax Po Sp	190	Dol-Ral-Nef-Shael-Ohm-Gmj	6
+Spitfire	Xb	190	Ohm-Ral-Nef	3
+Spitfire Grill	Xb	190	Ohm-Ral-Nef-Gmj	4
+Wonder	Mi	190	Mal-Nef-Ohm	3
+Wonderlust	Mi	190	Mal-Nef-Ohm-Gmj	4
+Xterra	Bt	190	Eld-Ohm-Io-Dol	4
+Adamantium	Sh To	200	Thul-Pul-Lum-Lo-Ist	5
+Adamantium Defense	Sh To	200	Thul-Pul-Lum-Lo-Ist-Gmj	6
+Black Widow	Mi	200	Ohm-Lo-Mal-Tal-Gmj	5
+Blood	We	200	Gul-Um-Lo-Nef-Tal	5
+Blood Brother	We	200	Gul-Um-Lo-Nef-Tal-Gmj	6
+Breath of Dying	Mi	200	Vex-Lo-Tir-Amn	4
+Chaos	Me	200	Um-Lo-Amn-Nef	4
+Chaos Theory	Me	200	Um-Lo-Amn-Nef-Gmj	5
+Cuisinart	Sw	200	Um-Mal-Amn-Gul-Lo	5
+Cuisinart Finery	Sw	200	Um-Mal-Amn-Gul-Lo-Gmj	6
+Desolation	Sh	200	Lo-Vex-Gul-Ohm-Gmj	5
+Despair	Sh	200	Lo-Vex-Gul-Ohm	4
+Duress	We	200	Mal-Lum-Ral-Lo	4
+Duressed	We	200	Mal-Lum-Ral-Lo-Gmj	5
+Flickering Flame	Mi	200	Ral-Lo-Shael-El	4
+Flickering Inferno	Mi	200	Ral-Lo-Shael-El-Gmj	5
+Gasp of the Dying	Mi	200	Vex-Lo-Tir-Amn-Gmj	5
+Last Wish	Gl	200	Nef-Eth-Lo	3
+Lasting Wish	Gl	200	Nef-Eth-Lo-Gmj	4
+Mage Kill	Sh To	200	Dol-Lum-Lo-Um-Lem	5
+Mage Killer	Sh To	200	Dol-Lum-Lo-Um-Lem-Gmj	6
+Moulinex	Sw	200	Lo-Fal-Sol-Ith-Eth	5
+Moulinex Blender	Sw	200	Lo-Fal-Sol-Ith-Eth-Gmj	6
+Phalanx	Me	200	Lo-Um-Amn-Ith	4
+Phalanx Form	Me	200	Lo-Um-Amn-Ith-Gmj	5
+Prayer	Gl	200	Ohm-Lo-Shael	3
+Prayer Offering	Gl	200	Ohm-Lo-Shael-Gmj	4
+Queen	Sh To	200	Lo-Lem-Mal-Vex-Dol	5
+Queen Bee	Sh To	200	Lo-Lem-Mal-Vex-Dol-Gmj	6
+Red Futterbye	Bt Gl	200	Amn-Hel-Pul-Lo	4
+Stomp	Bt	200	Lo-Ith-Shael	3
+Stomper	Bt	200	Lo-Ith-Shael-Gmj	4
+Tempest	St	200	Lo-Shael-Nef-Dol	4
+Thunder	Ha	200	Nef-Ort-Vex-Lo	4
+Thunderbolt	Ha	200	Nef-Ort-Vex-Lo-Gmj	5
+Widowmaker	Mi	200	Ohm-Lo-Mal-Tal	4
+Wyvern Klaw	Cw	200	Lo-Mal-Tal	3
+Chance	To	210	Lem-Sur-Ist	3
+Chances	To	210	Lem-Sur-Ist-Gmj	4
+Delerious	Cw	210	Sur-Tal-Gmj	3
+Delerium	Cw	210	Sur-Tal	2
+Dragon	Cw	210	Sur-Um-Shael 	3
+Dragon Fang	Cw	210	Sur-Um-Shael-Gmj	4
+Enigma	He	210	Sur-Eld-Amn	3
+Enigma's Veil	He	210	Sur-Eld-Amn-Gmj	4
+Herald	Po	210	Dol-Amn-Gul-Sur-Lo	5
+Herald of Destruction	Po	210	Dol-Amn-Gul-Sur-Lo-Gmj	6
+Innocence	Or	210	El-Sur	2
+Kato	He Sh To We	210	Sur-Nef-Shael	3
+Kato's Reply	He Sh To We	210	Sur-Nef-Shael-Gmj	4
+Marksman	Mi	210	Sur-Um-Nef-Lo-Gul	5
+Mysterious Ways	Mi	210	Sur-Dol-Ith-Nef-Sol-Gmj	6
+Mystery	Mi	210	Sur-Dol-Ith-Nef-Sol	5
+Obsession	Ci	210	Sur-Dol-Sol	3
+Obsession's Snare	Ci	210	Sur-Dol-Sol-Gmj	4
+Punishment	Bl	210	Nef-Sur-Lo-Um	4
+Punisher	Bl	210	Nef-Sur-Lo-Um-Gmj	5
+Requiem	Ci He	210	Ist-Sur-Shael	3
+Sharpshooter	Mi	210	Sur-Um-Nef-Lo-Gul-Gmj	6
+Spin	Me	210	Sur-Vex-Amn-Ith	4
+Spin Artist	Me	210	Sur-Vex-Amn-Ith-Gmj	5
+Synchronicity	Sh To	210	Sur-Lum-Pul-Ith	4
+Synchronized in Time	Sh To	210	Sur-Lum-Pul-Ith-Gmj	5
+Violation	Me	210	Sur-Lo-Vex-Amn-Thul-Ith	6
+Whisper	Mi	210	Sur-Ohm-Dol-Nef	4
+Whisperings	Mi	210	Sur-Ohm-Dol-Nef-Gmj	5
+Woe	Mi	210	Sur-Tal-Gul-Nef-Ohm	5
+Woe and Misery	Mi	210	Sur-Tal-Gul-Nef-Ohm-Gmj	6
+Armageddon	Me	220	Shael-Ber-Tal-Ort-Ral	5
+Armageddon's Paradise	Me	220	Shael-Ber-Tal-Ort-Ral-Gmj	6
+Beautiful	He	220	Dol-Ber-Nef-Gmj	4
+Beauty	He	220	Dol-Ber-Nef	3
+Call to Arms	Be	220	Ber-Shael	2
+Destruction	We	220	Ber-Ral-Nef-Ohm-Gul	5
+Destruction's Wake	We	220	Ber-Ral-Nef-Ohm-Gul-Gmj	6
+Doomsayer	Bl	220	Ber-Lo	2
+Doomsayings	Bl	220	Ber-Lo-Gmj	3
+Elmo	Hd	220	Ber-Shael-Ko	3
+Elmo's Fire	Hd	220	Ber-Shael-Ko-Gmj	4
+Flock of Geese	Sh To	220	Ist-Ber-Mal-Dol-Shael-Gmj	6
+Flock of Seagulls	Sh To	220	Ist-Ber-Mal-Dol-Shael	5
+Hellspawn	To	220	Amn-Ber-Pul-Mal-Nef	5
+Hellspawned	To	220	Amn-Ber-Pul-Mal-Nef-Gmj	6
+Inferno	Sh To	220	Lem-Mal-Io-Ber-Ist	5
+Inferno Tempest	Sh To	220	Lem-Mal-Io-Ber-Ist-Gmj	6
+Judgement	Sc	220	Gul-Ber-Ort-Nef	4
+Judgement Day	Sc	220	Gul-Ber-Ort-Nef-Gmj	5
+Lawbreaker	Ma Sc St	220	Ber-Nef-Dol-Gmj	4
+Lawbringer	Ma Sc St	220	Ber-Nef-Dol	3
+Martyr	Me	220	Ber-Lo-Ith-Sol-Ohm	5
+Martyr's Legacy	Me	220	Ber-Lo-Ith-Sol-Ohm-Gmj	6
+Mucky Muck	Sh To	220	Gul-Lem-Hel-Ber-Thul-Gmj	6
+Mutt	Sh To	220	Gul-Lem-Hel-Ber-Thul	5
+Nightfall	Be	220	Ber-Eth	2
+Notion	He	220	Nef-Shael-Ber-Sol	4
+Obedience	Bl	220	Ber-Nef-Mal-Sol	4
+Reaper's Glance	Gl	220	Shael-Tir-Ber-Ber	4
+Roo	Or	220	Ber-Dol-Vex	3
+Silk	To	220	Ber-Um-Sol-Amn-Pul	5
+Silken	To	220	Ber-Um-Sol-Amn-Pul-Gmj	6
+Sledge	Ha	220	Fal-Ohm-Eth-Gul-Ber	5
+Sledgehammer	Ha	220	Fal-Ohm-Eth-Gul-Ber-Gmj	6
+Splendor	St	220	Ber-Tir-Nef-Vex	4
+Stone	Gl	220	Thul-Ber-Shael	3
+Stonecold	Gl	220	Thul-Ber-Shael-Gmj	4
+Storm	Gl	220	Ort-Ber-Shael	3
+Stormcloud	Gl	220	Ort-Ber-Shael-Gmj	4
+Soul Survivor	To	220	Um-Ber-Shael-Eth-Gmj	5
+Survivor	To	220	Um-Ber-Shael-Eth	4
+Teddy Bear	Ha	220	Dol-Ber-Nef	3
+Teddy Bears	Ha	220	Dol-Ber-Nef-Gmj	4
+The Obedient	Bl	220	Ber-Nef-Mal-Sol-Gmj	5
+Unicorn	Po Sp	220	Ort-Ber-Gul-Shael-Nef	5
+Unicorn Blessing	Po Sp	220	Ort-Ber-Gul-Shael-Nef-Gmj	6
+Wrath	Me	220	Ohm-Ber-Eth-Ral	4
+Wrath of Nature	Me	220	Ohm-Ber-Eth-Ral-Gmj	5
+Yin	Me	220	Ber-Dol-Shael-Ith-Nef	5
+Cavalier	Au To	230	Ohm-Pul-Tal-Fal-Jah	5
+Cavalier Attitude	Au To	230	Ohm-Pul-Tal-Fal-Jah-Gmj	6
+Death Stroke	Gl	230	Shael-Nef-Jah-Jah	4
+Destinys Daughter	Ab Aj As	230	Jah-Sur-Lo	3
+Destinys Matron	Ab Aj As	230	Jah-Sur-Lo-Gmj	4
+Dogs of War	Be	230	Jah-Sol	2
+Epilogue	We	230	Gul-Jah-Dol-Shael	4
+Eternity	Sh To	230	Jah-Eld-Dol	3
+Eternity Everlasting	Sh To	230	Jah-Eld-Dol-Gmj	4
+Final Epilogue	We	230	Gul-Jah-Dol-Shael-Gmj	5
+Furious	Me	230	Jah-Gul-Eth-Gmj	4
+Fury	Me	230	Jah-Gul-Eth	3
+Glorious	Ci	230	Sur-Jah-Dol-Gmj	4
+Glory	Ci	230	Sur-Jah-Dol	3
+Gran Vitesse	Be Bt	230	Jah-Shael	2
+Heart of the Oak	To	230	Jah-Um-Io-Shael-Pul	5
+Heart of the Oat	To	230	Jah-Um-Io-Shael-Pul-Gmj	6
+Heaven's Mandate	Au	230	Jah-Ber-Io-Nef-Gmj	5
+Heaven's Will	Au	230	Jah-Ber-Io-Nef	4
+Hellhound	He	230	Sol-Jah-Nef	3
+Hellhound's Breath	He	230	Sol-Jah-Nef-Gmj	4
+Loyal Servant	Bo	230	Jah-Thul-Amn-Gmj	4
+Loyalty	Bo	230	Jah-Thul-Amn	3
+Nature's Glory	Pe	230	Jah-Dol-Amn-Gmj	4
+Nature's Kingdom	Pe	230	Jah-Dol-Amn	3
+Parallel	Bt	230	Jah-Nef-Sol	3
+Parallel Lines	Bt	230	Jah-Nef-Sol-Gmj	4
+Plague	We	230	Tal-Jah-Gul	3
+Plague Bearer	We	230	Tal-Jah-Gul-Gmj	4
+Siren's Lament	Mi	230	Jah-Sur-Eld-Gmj	4
+Siren's Song	Sw	230	Jah-Sur-Eld	3
+Temptation	He	230	El-Lem-Jah	3
+Temptress	He	230	El-Lem-Jah-Gmj	4
+Time	To	230	Jah-Shael-Hel	3
+Timeout	To	230	Jah-Shael-Hel-Gmj	4
+Valiant	To	230	Ber-Jah-Sur-Gmj	4
+Valor	To	230	Ber-Jah-Sur	3
+Angel from Heaven	Me	240	Shael-Cham-Ohm-Tal-Nef-Gmj	6
+Bat Out of Hell	Me	240	Shael-Cham-Ohm-Tal-Nef	5
+Criss Cross	Xb	240	Lo-Cham-Thul-Tal-Shael	5
+Criss Crass Cross	Xb	240	Lo-Cham-Thul-Tal-Shael-Gmj	6
+Empress	Sh To	240	Cham-Ist-Ohm-Ber-Ko	5
+Empressive	Sh To	240	Cham-Ist-Ohm-Ber-Ko-Gmj	6
+Enlightened Faith	He	240	Lum-Hel-Cham-Gmj	4
+Enlightenment	He	240	Lum-Hel-Cham	3
+Grip of the Dead	Gl	240	Shael-Eth-Cham-Cham	4
+Grizzly Adams	Bt Gl	240	Hel-Ber-Cham-Lum	4
+Hand of Justice	Gl	240	Cham-Sur-Lo	3
+Hand of Vindication	Gl	240	Cham-Sur-Lo-Gmj	4
+Ice	We	240	Thul-Cham-Jah-Shael	4
+Icicle	We	240	Thul-Cham-Jah-Shael-Gmj	5
+Infinity	Be	240	Cham-Shael	2
+Paradox	St	240	Ral-Thul-Cham-Nef	4
+Peril	Mi	240	Gul-Cham-Ber-Nef	4
+Peril's Gate	Mi	240	Gul-Cham-Ber-Nef-Gmj	5
+Semantics	Au	240	Cham-Shael-Eld-Amn-Pul	5
+Soothsayer	To	240	Cham-Ist-Ohm-Thul-Hel	5
+Soothsayings	To	240	Cham-Ist-Ohm-Thul-Hel-Gmj	6
+Sparkly Flutterbye	Bt Gl	240	Amn-Hel-Um-Cham	4
+Still Water	Be	240	Cham-Sol	2
+Symbols	Au	240	Cham-Shael-Eld-Amn-Pul-Gmj	6
+Unbending Will	Sw	240	Thul-Ohm-Lo-Cham	4
+Unyielding Force	Sw	240	Thul-Ohm-Lo-Cham-Gmj	5
+Water	Or	240	Cham-Thul	2
+Winter	Me	240	Cham-Thul-Amn	3
+Wintergreen	Me	240	Cham-Thul-Amn-Gmj	4
+Wolfman Jack	Bt Gl	240	Ber-Hel-Cham-Lum	4
+Yang	Me	240	Cham-Um-Tir-Mal-Sol	5
+Big Dog	Sh To	255	Ber-Gul-Lem-Zy-Hel-Gmj	6
+Blooded Claw	We Ar	255	Zy-Zy-El-Gmj	4
+Bloody Claw	We Ar	255	Zy-Zy-El	3
+Bonesaw*	Cm	255	Eld-Zy-El	3
+Born Wild*	Cm	255	Zy-El-Eth	3
+Clawfang*	Cm	255	Zy-El-El	3
+Cleansing*	Cm	255	Zy-El-Ith	3
+Convicted*	Cm	255	Zy-El-Tir	3
+Creature Comfort	We Ar	255	Zy-Zy-Eth	3
+Death	Me	255	Eld-Zy-Amn-Sol-Mal	5
+Death March	Me	255	Eld-Zy-Amn-Sol-Mal-Gmj	6
+Elemental Fury	We Ar	255	Zy-Zy-Ith	3
+Endgame	Me	255	Um-Mal-Zy-Ith-Lo	5
+End of Game	Me	255	Um-Mal-Zy-Ith-Lo-Gmj	6
+Force of Darkness	To	255	Fal-Ko-Lum-Io-Zy-Gmj	6
+Frosty*	Cm	255	Ith-Zy-El	3
+Grim Reaper	Me	255	Lo-Ber-Zy-Shael-Amn-Gmj	6
+Harbinger	To We	255	Zy-Mal-Ber-Sur-Tal	5
+Harbinger of Woe	To We	255	Zy-Mal-Ber-Sur-Tal-Gmj	6
+Hollow Tooth*	Cm	255	Zy-El-Eld	3
+Holy Smite*	Cm	255	Tir-Zy-El	3
+Inversion	Wa	255	Zy-Ber	2
+Jbouley	We	255	Jah-Ber-Zy-Ith-Dol	5
+Jbouley's Reign	We	255	Jah-Ber-Zy-Ith-Dol-Gmj	6
+Legacy	To	255	Amn-Zy-Um-Pul-Lem	5
+Legacy Everlasting	To	255	Amn-Zy-Um-Pul-Lem-Gmj	6
+Malevolence	Me	255	Ber-Zy-Amn-Shael-Dol-Gmj	6
+Malevolent	Me	255	Ber-Zy-Amn-Shael-Dol	5
+Mastiff	Sh To	255	Ber-Gul-Lem-Zy-Hel	5
+Maximus	Me	255	Hel-Shael-Hel-Shael-Zy	5
+Megiddo's Touch	Gl	255	Shael-Ith-Zy-Zy	4
+NavyFC	Mi	255	Mal-Io-Mal-Io-Ohm-Zy	6
+Oath of Amazon	We Ar	255	Zy-Zy-Zy-El-Zy-Tal	6
+Oath of Assassin	We Ar	255	Zy-Zy-Zy-El-Zy-El	6
+Oath of Barbarian	We Ar	255	Zy-Zy-Zy-El-Zy-Nef	6
+Oath of Druid	We Ar	255	Zy-Zy-Zy-El-Zy-Eth	6
+Oath of Necroman	We Ar	255	Zy-Zy-Zy-El-Zy-Eld	6
+Oath of Paladin	We Ar	255	Zy-Zy-Zy-El-Zy-Tir	6
+Oath of Sorceress	We Ar	255	Zy-Zy-Zy-El-Zy-Ith	6
+PhrozenKeep	To	255	Pul-Um-Mal-Sol-Eth-Zy	6
+Pierced Heart*	Cm	255	Tal-Zy-El	3
+Pointed Arrow	We Ar	255	Zy-Zy-Tal	3
+Pointed Jab*	Cm	255	Zy-El-Tal	3
+Primal Barb	We Ar	255	Zy-Zy-Nef	3
+Primal Fury*	Cm	255	Zy-El-Nef	3
+Pure Vision	Ci	255	Zy-Um-Dol-Gmj	4
+Purity	Ci	255	Zy-Um-Dol	3
+Reaper	Me	255	Lo-Ber-Zy-Shael-Amn	5
+Righteous Might	We Ar	255	Zy-Zy-Tir	3
+Ripcord	Mi	255	Shael-Ort-Zy-Gul-Mal-Dol	6
+Shrunken Head	We Ar	255	Zy-Zy-Eld	3
+Spikefist*	Cm	255	El-Zy-El	3
+Spirit of Conan*	Cm	255	Nef-Zy-El	3
+The Force	To	255	Fal-Ko-Lum-Io-Zy	5
+Truth	Me	255	Zy-Sheal-Nef-Sur-Ber-Um	6
+Untamed	Sw	255	Shael-Hel-Shael-Hel-Zy	5
+Void	Be	255	Zy-Cham	2
+Wild Thing*	Cm	255	Eth-Zy-El	3
+Word of Amazon	We Ar	255	Zy-El-Zy-Tal	4
+Word of Assassin	We Ar	255	Zy-El-Zy-El	4
+Word of Barbarian	We Ar	255	Zy-El-Zy-Nef	4
+Word of Druid	We Ar	255	Zy-El-Zy-Eth	4
+Word of Necromancer	We Ar	255	Zy-El-Zy-Eld	4
+Word of Paladin	We Ar	255	Zy-El-Zy-Tir	4
+Word of Sorceress	We Ar	255	Zy-El-Zy-Ith	4
+ZyEl	Be Bt He Sh To We	255	Zy-El	2
+ZyEl's Reign	Be Bt He Sh To We	255	Zy-El-Gmj	3
